@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ValidateApp
+comment0.text=\r\n\ ValidateApp\ will\ tell\ you\ if\ you\ have\ a\ valid\ zip\ code,\ SSN,\ password.\r\n\r\n\ @author\ Hien\ Le\ -\ hien.t.le3@\r\n\ @version\ 10/16/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ runApp()
+comment2.text=\r\n\ runApp\ method\ -\ this\ will\ kick\ off\ the\ program\ and\ do\ what\ the\ users\ ask\ for\ \r\n\r\n
+comment3.params=sc
+comment3.target=int\ getInt(java.util.Scanner)
+comment3.text=\r\n\ getInt\ method\ -\ check\ if\ the\ input\ is\ integer\r\n\r\n\ @param\ \ sc\ Scanner\r\n\ @return\ int\ value\r\n
+comment4.params=sc\ s
+comment4.target=void\ check(java.util.Scanner,\ java.lang.String)
+comment4.text=\r\n\ check\ method\ -\ check\ the\ String\ based\ on\ the\ type\ and\ return\ the\ result\r\n\ @param\ \ sc\ Scanner\r\n\ @param\ s\ the\ string\ that\ will\ be\ validated\r\n
+numComments=5

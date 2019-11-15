@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Validations
+comment0.text=\r\n\ Validations\ class\ that\ have\ 3\ method\ validateZip,\ validateSSN,\ validatePassWord\ that\ all\ returns\ boolean\ (true\ or\ false)\r\n\r\n\ @author\ Hien\ Le\ -\ hien.t.le3@\r\n\ @version\ 10/16/19\r\n
+comment1.params=s
+comment1.target=boolean\ validateZip(java.lang.String)
+comment1.text=\r\n\ validateZip\ method\ -\ validate\ that\ a\ String\ represents\ a\ valid\ zip\ code.\ \r\n\ \u0000A\ valid\ zip\ code\ is\ made\ up\ of\ 5\ digits.\r\n\ @param\ \ s\ \ input\ zip\ string\ to\ be\ validated\r\n\ @return\ boolean\ (true\ or\ false)\r\n
+comment2.params=s
+comment2.target=boolean\ validateSSN(java.lang.String)
+comment2.text=\r\n\ validateSSN\ method\ -\ validate\ that\ a\ String\ represents\ a\ 9-digit\ SSN.\r\n\ A\ valid\ SSN\ follows\ the\ pattern\ XXX-XX-XXXX,\ including\ the\ dashes.\r\n\ @param\ \ s\ \ input\ SSN\ string\ to\ be\ validated\ \r\n\ @return\ boolean\ (true\ or\ false)\r\n
+comment3.params=s
+comment3.target=boolean\ validatePassWord(java.lang.String)
+comment3.text=\r\n\ validatePassWord\ method\ -\ validate\ that\ a\ String\ represents\ \ \r\n\ 8\ symbols,\ including\ letters\ (upper\ and\ lower\ case),\ numbers,\ and\ special\ symbols\ like\ \#$&_.\u0000\r\n\ @param\ \ s\ \ input\ a\ string\ to\ be\ validated\r\n\ @return\ boolean\ (true\ or\ false)\r\n
+numComments=4

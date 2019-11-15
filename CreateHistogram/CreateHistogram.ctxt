@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CreateHistogram
+comment0.text=\ Program\ to\ display\ histogram\ of\ Presidental\ Elections\ registered\ and\ voters\r\n\ @author\ Hien\ Le\ (Hien.T.Le3@Seattlecolleges.edu)\r\n\ @version\ Sept\ 30,\ 2019\ -\ CSC\ 142\ -\ Homework\ Week\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printHeader()
+comment2.text=\ Method\ printHeader\ create\ the\ histogram\ chart's\ header\ using\ the\ value\ from\ constant\r\n
+comment3.params=year\ value\ ch
+comment3.target=void\ createBar(int,\ int,\ char)
+comment3.text=\ Method\ createBar\ create\ the\ histogram\ chart\ using\ data\ from\ input\r\n\ @param\ year\ an\ integer\ specifying\ the\ bar\ title\r\n\ @param\ value\ an\ integer\ specifying\ the\ bar\ value\r\n\ @param\ ch\ the\ character\ that\ will\ be\ used\ to\ create\ the\ graph\r\n
+comment4.params=value\ ch
+comment4.target=void\ createBar(int,\ char)
+comment4.text=\ Method\ createBar\ create\ the\ histogram\ chart\ using\ data\ from\ input\r\n\ @param\ value\ an\ integer\ specifying\ the\ bar\ value\r\n\ @param\ ch\ the\ character\ that\ will\ be\ used\ to\ create\ the\ graph\r\n
+comment5.params=
+comment5.target=void\ createAxis()
+comment5.text=\ Method\ to\ createAxis\ \r\n\ Method\ print\ 2\ lines.\ One\ for\ the\ tick\ mark.\ One\ for\ the\ number\ in\ the\ X\ axis\ (from\ 0\ to\ 6MM)\r\n
+comment6.params=
+comment6.target=void\ emptyRow()
+comment6.text=\ Method\ emptyRow.\ Method\ print\ emtpy\ row\r\n\ \r\n
+comment7.params=par1\ par2
+comment7.target=void\ calPercent(double,\ double)
+comment7.text=\ Method\ to\ calPercen.\ This\ method\ print\ percentage\ from\ 2\ inputs\ with\ formatted\ 2\ decimals\ and\ a\ percentage\ sign\r\n\ @param\ par1\ double\ numerator\r\n\ @param\ par2\ double\ denominator\r\n
+numComments=8

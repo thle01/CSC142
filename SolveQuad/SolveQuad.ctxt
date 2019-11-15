@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SolveQuad
+comment0.text=\r\n\ Class\ SolveQuad\ will\ output\ 3\ different\ scenarios\ base\ on\ the\ value\ of\ coefficient\ a,b,c\r\n\r\n\ @author\ Hien\ Le\ (hien.t.le3@)\r\n\ @version\ 10/09/2019\ -\ CSC\ 142\ -\ Lab\ 03\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ solveQuad()
+comment2.text=\r\n\ Method\ solveQuad\ will\ prompt\ for\ input\ from\ the\ users\:\ 3\ int\ that\ is\ not\ equal\ to\ 0\ to\ calculate\ the\ value\ of\ x\r\n\r\n
+numComments=3

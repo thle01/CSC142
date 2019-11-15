@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HW2Drawing
+comment0.text=\ Program\ to\ display\ 3\ images\:\ (1)\ Paraboic\ curves\ (2)\ Diamond\ with\ chess\ board\ in\ the\ middle\ (3)\ Parabolic\ with\ different\ orientation.\r\n\ @author\ Hien\ Le\ (Hien.T.Le3@Seattlecolleges.edu)\r\n\ @version\ October\ 9,\ 2019\ -\ CSC\ 142\ -\ Homework\ Week\ 2\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=width\ height
+comment2.target=void\ drawPart1(int,\ int)
+comment2.text=\r\n\ DrawPart1\ method\ that\ will\ draw\ a\ Parabolic\ figure.\ Color\ is\ generated\ randomly\r\n\ @param\ width\ This\ is\ the\ width\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n\ @param\ height\ This\ is\ the\ height\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n
+comment3.params=width\ height
+comment3.target=void\ drawPart2(int,\ int)
+comment3.text=\r\n\ drawPart2\ method\ that\ will\ draw\ a\ diamond\ in\ the\ form\ of\ parabolic\ with\ the\ chess\ board\ inside\r\n\r\n\ @param\ width\ This\ is\ the\ width\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n\ @param\ height\ This\ is\ the\ height\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n
+comment4.params=g\ width\ height
+comment4.target=void\ drawDiamond(java.awt.Graphics,\ int,\ int)
+comment4.text=\r\n\ drawDiamond\ method\ that\ will\ draw\ a\ diamond\ using\ the\ parabolic\ curves.\ Color\ is\ generated\ randomly\r\n\r\n\ @param\ g\ initiate\ the\ canvas\ to\ draw\ on\r\n\ @param\ width\ This\ is\ the\ width\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n\ @param\ height\ This\ is\ the\ height\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n\ \r\n
+comment5.params=g\ width\ height
+comment5.target=void\ drawChessBoard(java.awt.Graphics,\ int,\ int)
+comment5.text=\r\n\ drawChessBoard\ method\r\n\r\n\ @param\ g\ initiate\ the\ canvas\ to\ draw\ on\r\n\ @param\ width\ This\ is\ the\ width\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n\ @param\ height\ This\ is\ the\ height\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n
+comment6.params=width\ height
+comment6.target=void\ drawExtraCredit(int,\ int)
+comment6.text=\r\n\ drawExtraCredit\ method\ will\ draw\ a\ parabolic\ curves\ image\ like\ the\ drawPart1\ but\ with\ different\ orirentation\r\n\ @param\ width\ This\ is\ the\ width\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n\ @param\ height\ This\ is\ the\ height\ of\ the\ canvas\ that\ we\ will\ be\ drawing\ on\r\n
+numComments=7

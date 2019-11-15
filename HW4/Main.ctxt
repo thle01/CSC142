@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ class\ test\ the\ integration\ between\ Student\ and\ Department\r\n\ \r\n\ @author\ Hien\ Le\ (hien.t.le3@)\r\n\ @version\ 10/25/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
